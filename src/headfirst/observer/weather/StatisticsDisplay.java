@@ -21,7 +21,7 @@ public class StatisticsDisplay implements Observer, DisplayElement {
 		if (temp > maxTemp) {
 			maxTemp = temp;
 		}
- 
+
 		if (temp < minTemp) {
 			minTemp = temp;
 		}
@@ -31,6 +31,6 @@ public class StatisticsDisplay implements Observer, DisplayElement {
 
 	public void display() {
 		System.out.println("Avg/Max/Min temperature = " + (tempSum / numReadings)
-			+ "/" + maxTemp + "/" + minTemp);
+				+ "/" + maxTemp + "/" + minTemp);
 	}
 }
