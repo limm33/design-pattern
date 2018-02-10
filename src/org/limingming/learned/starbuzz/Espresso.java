@@ -1,4 +1,4 @@
-package headfirst.decorator.starbuzz;
+package org.limingming.learned.starbuzz;
 
 /**
  * 浓缩咖啡的类

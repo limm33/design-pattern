@@ -1,4 +1,4 @@
-package headfirst.decorator.starbuzz;
+package org.limingming.learned.starbuzz;
 
 public class Whip extends CondimentDecorator {
     Beverage beverage;

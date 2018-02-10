@@ -1,4 +1,4 @@
-package headfirst.decorator.starbuzz;
+package org.limingming.learned.starbuzz;
 
 public abstract class Beverage {
 	String description = "Unknown Beverage";
