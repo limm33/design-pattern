@@ -1,1 +1,5 @@
 /bin
+/out
+.design-pattern.iml
+HF_DP.iml
+/.idea
