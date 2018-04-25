@@ -1,4 +1,4 @@
-package org.limingming.learned.io;
+package org.limingming.exercise.io;
 
 import java.io.*;
 
